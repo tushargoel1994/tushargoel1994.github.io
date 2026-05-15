@@ -4,9 +4,9 @@ minimal_mistakes_skin: "default"  # options: air, aqua, contrast, dark, dirt, ne
 
 # Site settings
 title: "Tushar Goel Personal Blog"
-subtitle: "Notes on corporate finance, data analysis, and AI"
+subtitle: "Notes on corporate Strategy, Finance, and Governance"
 name: "Tushar Goel"
-description: "Deep research on Financial Models, Data Analysis and Corporate Strategy"
+description: "Leveraging Financial Modelling and Data Analysis to uncover Corporate Strategy and Governance"
 url: "https://tushargoel1994.github.io"
 baseurl: ""
 repository: "tushargoel1994/tushargoel1994.github.io"
@@ -15,7 +15,7 @@ repository: "tushargoel1994/tushargoel1994.github.io"
 author:
   name: "Tushar Goel"
   avatar: "/assets/images/avatar.png"
-  bio: "Corporate finance and Strategic Finance Enthusiast"
+  bio: "Rice MBA | IIT (BHU) | CFA Level 2 | Ex-Citi | Investments, Strategy & Finance"
   location: "Houston, TX"
   links:
     - label: "GitHub"
