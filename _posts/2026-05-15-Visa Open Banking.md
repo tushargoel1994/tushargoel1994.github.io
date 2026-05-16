@@ -195,7 +195,7 @@ Visa's revenue is card-payment fees. A cheaper alternative outside its ecosystem
 
 ### Wardley Map
 
-![Wardley Map](../assets/images/1_Visa_Open_Banking/Payments_Wardley_Map.png)
+![Wardley Map](/assets/images/1_Visa_Open_Banking/Payments_Wardley_Map.png)
 
 ### Component Placement Matrix
 
