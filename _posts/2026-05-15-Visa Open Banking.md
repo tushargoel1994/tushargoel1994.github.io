@@ -186,7 +186,7 @@ Visa's revenue is card-payment fees. A cheaper alternative outside its ecosystem
 
 ## Exhibit 4: Transaction Volume in US
 
-![Visa Payment Share](../assets/images/1_Visa_Open_Banking/Payment_share.png)
+![Visa Payment Share](/assets/images/1_Visa_Open_Banking/Payment_share.png)
 
 
 ## Exhibit 5: Wardley Map — Payment Transaction System
